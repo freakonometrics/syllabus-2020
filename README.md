@@ -6,7 +6,7 @@
 # INF7100
 ## Initiation à la science des données et à l'intelligence artificielle
 
-Les mardis et jeudis de 14h00 à 17h00 au local PK-4665.
+Les mardis et jeudis de 14h00 à 17h00 au local **PK-4665**.
 
 Enseignants (en ordre de présence dans le syllabus) :
 - Jean-Hugues Roy (roy.jean-hugues@uqam.ca)
