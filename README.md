@@ -88,4 +88,4 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 À remettre dans votre répertoire Github avant le 17 mai, 14h.
 
 ### TPI? – Indexation, mise en œuvre avec Spark (10%)
-À remettre dans votre répertoire Github avant le 11 juin, 14h.
+À remettre dans votre répertoire Github avant le 28 mai, 14h.
