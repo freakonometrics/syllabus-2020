@@ -62,16 +62,18 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 - Réglementation, données personnelles
 
 ### 11 - Mardi, 2 juin 2020 – A Charpentier
-- Détails
+- Introduction à la science de données
+- Expérimentation vs. observation (courte introduction aux modèles causaux)
 
 ### 12 - Jeudi, 4 juin 2020 – A Charpentier
-- Détails
+- Introduction à la visualisation
+- Modélisation statistique
 
 ### 13 - Mardi, 9 juin 2020 – A Charpentier
-- Détails
+- Corrélation et régression
 
 ### 14 - Jeudi, 11 juin 2020 – A Charpentier
-- Détails
+- Algorithmes de classification 
 
 ### 15 - Mardi, 16 juin 2020
 - Présentations finales
